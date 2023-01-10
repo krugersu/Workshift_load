@@ -91,3 +91,24 @@
 2023-01-10 13:07:53 [INFO] - (db.py).get_last_workshift(42)  sent workshift for 1C
 2023-01-10 13:07:53 [INFO] - (db.py).get_last_workshift(43)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'))
 2023-01-10 13:07:53 [INFO] - (wsh_load.py).main(31)  End programs
+2023-01-10 14:12:05 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-10 14:12:05 [INFO] - (db.py).get_last_workshift(42)  sent workshift for 1C
+2023-01-10 14:12:05 [INFO] - (db.py).get_last_workshift(43)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'))
+2023-01-10 14:12:05 [INFO] - (wsh_load.py).main(31)  End programs
+2023-01-10 15:00:50 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-10 15:00:50 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-10 15:00:50 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'))
+2023-01-10 15:01:13 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-10 15:01:13 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-10 15:01:13 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'))
+2023-01-10 15:01:13 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): bugs.python.org:80
+2023-01-10 15:01:13 [DEBUG] - (connectionpool.py)._make_request(456)  http://bugs.python.org:80 "POST / HTTP/1.1" 301 162
+2023-01-10 15:01:13 [DEBUG] - (connectionpool.py)._new_conn(1003)  Starting new HTTPS connection (1): bugs.python.org:443
+2023-01-10 15:01:56 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-10 15:01:56 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-10 15:01:56 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'))
+2023-01-10 15:01:56 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-10 15:02:56 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-10 15:02:56 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-10 15:02:56 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-10 15:02:56 [INFO] - (wsh_load.py).main(34)  End programs

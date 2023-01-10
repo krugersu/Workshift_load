@@ -4,7 +4,7 @@ import os
 import sys
 import configparser
 import m_config
-
+import request
 
 
 import app_logger
@@ -27,7 +27,10 @@ def main():
 
     # Анализ в каких магазинах изменения
     tData = db.workDb(rc)
-    tData.get_last_workshift()
+    l_workshift = tData.get_last_workshift()
+    # rec_con = request.req1C(rc)
+    # rec_con.post_workshift(l_workshift)
+    
     logger.info(u'End programs')   
 
 

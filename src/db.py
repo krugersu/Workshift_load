@@ -6,7 +6,7 @@ import diff_data
 import logging
 from datetime import datetime
 from pprint import pprint
-
+import request
 
 import pymysql
 
@@ -28,6 +28,8 @@ class workDb:
         
     def get_last_workshift(self):
         
+      
+        
         #tl_date = self.get_last_date()
         # self.save_last_date(tl_date)
         # print(self.load_last_date())
@@ -41,6 +43,8 @@ class workDb:
         
         logging.info('sent workshift for 1C')
         logging.info('workshift - ' + str(l_workshift))
+        
+        return l_workshift
 
     def save_last_date(self,t_date):
         filename = 'last_date.txt'

@@ -1,7 +1,7 @@
 
 import logging
 import requests
-import main
+
 import json
 import os
 import pathlib
@@ -76,7 +76,8 @@ class req1C:
                logging.exception(e, exc_info=False)
           return None
 
-
+     def post_workshift(self,l_workshift):
+         requests.post("http://bugs.python.org", data={'number': '12524', 'type': 'issue', 'action': 'show'})
 
      def _getDirM(self,listPath):
           
@@ -122,3 +123,6 @@ class req1C:
 #           except Exception as e:
 #                logging.exception(e, exc_info=False)
 #           return None         
+
+
+
