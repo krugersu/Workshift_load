@@ -9,6 +9,8 @@ from pathlib import Path
 import tortilla
 from pprint import pprint
 
+
+
 class req1C:
      def __init__(self, nConfig):
           self.mConfig = nConfig
@@ -69,15 +71,24 @@ class req1C:
                
 
 # ?  r = requests.get('http://192.168.252.250:8082/UNF_test/hs/test_s/V1/test_1')
-               # r.encoding = 'utf-8' 
-              # c_count = r.json()
                return c_count
           except Exception as e:
                logging.exception(e, exc_info=False)
           return None
 
      def post_workshift(self,l_workshift):
-         requests.post("http://bugs.python.org", data={'number': '12524', 'type': 'issue', 'action': 'show'})
+          
+          try:
+               r = requests.post('http://' + self.mConfig._sections.one_C.server_ip + ':'
+                                   + self.mConfig._sections.one_C.port
+                                   + self.mConfig._sections.one_C.workshift, data=None, json = l_workshift)
+               
+
+          except Exception as e:
+               logging.exception(e, exc_info=False)
+          return None
+
+
 
      def _getDirM(self,listPath):
           

@@ -112,3 +112,302 @@
 2023-01-10 15:02:56 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
 2023-01-10 15:02:56 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
 2023-01-10 15:02:56 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 11:07:46 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 11:30:30 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 11:30:31 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 11:30:31 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 11:30:31 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 11:30:31 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 11:30:48 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 11:30:48 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 11:30:48 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 11:30:48 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 11:30:48 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 11:40:52 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 11:40:52 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 11:40:52 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 11:40:52 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 11:40:52 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:09:04 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:09:04 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:09:04 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:09:04 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 12:09:04 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:09:13 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:09:13 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:09:13 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:09:13 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 12:09:13 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:10:17 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:10:17 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:10:17 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:10:17 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 12:10:17 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:11:00 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:11:00 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:11:00 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:11:00 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 12:11:00 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:11:07 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:11:07 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:11:07 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:11:07 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 12:11:07 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:14:14 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:14:14 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:14:14 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:14:31 [ERROR] - (request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 12:14:31 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:17:57 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:17:57 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:17:57 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:17:57 [ERROR] - (m_request.py).post_workshift(93)  module 'requests' has no attribute 'post'
+2023-01-11 12:17:57 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:19:45 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:19:46 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:19:46 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:19:46 [ERROR] - (m_request.py).post_workshift(95)  module 'requests' has no attribute 'post'
+2023-01-11 12:19:46 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:21:41 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:21:41 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:21:41 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:21:41 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:21:41 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 12:21:41 [ERROR] - (m_request.py).post_workshift(95)  Expecting value: line 1 column 1 (char 0)
+2023-01-11 12:21:41 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:24:41 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:24:41 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:24:41 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:24:41 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:24:42 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 12:24:42 [ERROR] - (m_request.py).post_workshift(95)  Expecting value: line 1 column 1 (char 0)
+2023-01-11 12:24:42 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:25:31 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:25:31 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:25:31 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:25:31 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:25:31 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 12:25:31 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:28:08 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:28:08 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:28:08 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:28:08 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:28:11 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 12:28:11 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:41:51 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:41:51 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:41:51 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:41:51 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:41:53 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 114
+2023-01-11 12:41:53 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:42:14 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:42:14 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:42:14 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:42:14 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:42:14 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 114
+2023-01-11 12:42:14 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:43:02 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:43:03 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:43:03 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:43:03 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:43:06 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 114
+2023-01-11 12:43:06 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:44:43 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:44:43 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:44:43 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:44:43 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:44:46 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 114
+2023-01-11 12:44:46 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:45:32 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:45:32 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:45:32 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:45:32 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:45:35 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 12:45:35 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 12:59:02 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 12:59:02 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 12:59:02 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 12:59:02 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 12:59:05 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 12:59:05 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:04:41 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:04:41 [INFO] - (db.py).get_last_workshift(51)  sent workshift for 1C
+2023-01-11 13:04:41 [INFO] - (db.py).get_last_workshift(52)  workshift - None
+2023-01-11 13:04:41 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:04:41 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 139
+2023-01-11 13:04:41 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:05:23 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:05:23 [INFO] - (db.py).get_last_workshift(51)  sent workshift for 1C
+2023-01-11 13:05:23 [INFO] - (db.py).get_last_workshift(52)  workshift - None
+2023-01-11 13:05:23 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:05:25 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 139
+2023-01-11 13:05:25 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:06:04 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:06:04 [INFO] - (db.py).get_last_workshift(51)  sent workshift for 1C
+2023-01-11 13:06:04 [INFO] - (db.py).get_last_workshift(52)  workshift - None
+2023-01-11 13:06:04 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:06:07 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:06:07 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:09:37 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:14:09 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:14:09 [INFO] - (db.py).get_last_workshift(52)  sent workshift for 1C
+2023-01-11 13:14:09 [INFO] - (db.py).get_last_workshift(53)  workshift - None
+2023-01-11 13:14:09 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:14:09 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:14:09 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:15:48 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:15:48 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:15:48 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:15:48 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:15:48 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:15:48 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:16:46 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:16:46 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:16:46 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:16:46 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:16:49 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:16:49 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:21:10 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:21:10 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:21:10 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:21:10 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:21:17 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:21:17 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:22:30 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:22:31 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:22:31 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:22:31 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:22:37 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:22:37 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:24:06 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:24:07 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:24:07 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:24:07 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:24:13 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:24:13 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:24:52 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:24:52 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:24:52 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:24:52 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:24:59 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:24:59 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:41:44 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:41:44 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:41:44 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:41:44 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:41:50 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:41:50 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:43:34 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:43:34 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:43:34 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:43:34 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:43:42 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 155
+2023-01-11 13:43:42 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:44:07 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:44:07 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:44:07 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:44:07 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:44:08 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 155
+2023-01-11 13:44:08 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 13:46:31 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 13:46:31 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 13:46:31 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 13:46:31 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 13:46:37 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 13:46:37 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:12:14 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:12:14 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:12:14 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:12:14 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:12:21 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 14:12:21 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:18:58 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:18:58 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:18:58 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:18:58 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:19:05 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 149
+2023-01-11 14:19:05 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:21:20 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:21:20 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:21:20 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:21:20 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:21:20 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 149
+2023-01-11 14:21:20 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:32:20 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:32:20 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:32:20 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:32:20 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:32:20 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 149
+2023-01-11 14:32:20 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:33:15 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:33:16 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:33:16 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:33:16 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:33:16 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 149
+2023-01-11 14:33:16 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:34:06 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:34:06 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:34:06 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:34:06 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:34:13 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 14:34:13 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:35:13 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:35:13 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:35:13 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:35:13 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:35:24 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 133
+2023-01-11 14:35:24 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:38:04 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:38:05 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:38:05 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:38:05 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:38:13 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 500 133
+2023-01-11 14:38:13 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 14:42:10 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 14:42:10 [INFO] - (db.py).get_last_workshift(44)  sent workshift for 1C
+2023-01-11 14:42:10 [INFO] - (db.py).get_last_workshift(45)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 14:42:10 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 14:42:23 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 14:42:23 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 15:38:16 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:38:17 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:38:17 [INFO] - (db.py).get_last_workshift(39)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 15:38:46 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:38:46 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:38:46 [INFO] - (db.py).get_last_workshift(39)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 15:39:22 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:39:22 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:39:22 [INFO] - (db.py).get_last_workshift(39)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 15:40:28 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:40:28 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:40:28 [INFO] - (db.py).get_last_workshift(39)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 15:42:19 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:42:19 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:42:19 [INFO] - (db.py).get_last_workshift(39)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 15:43:06 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:43:06 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:43:06 [INFO] - (db.py).get_last_workshift(39)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 15:44:50 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:44:50 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:44:50 [INFO] - (db.py).get_last_workshift(39)  workshift - ((34, 'test'), (35, 'test'), (36, 'test'), (37, 'test'), (38, 'test'))
+2023-01-11 15:44:50 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 15:45:01 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 15:45:01 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 15:45:48 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:45:48 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:45:48 [INFO] - (db.py).get_last_workshift(39)  workshift - ()
+2023-01-11 15:45:48 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 15:45:48 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 15:45:48 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 15:47:42 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:47:42 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:47:42 [INFO] - (db.py).get_last_workshift(39)  workshift - ((39, 'test'),)
+2023-01-11 15:47:42 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 15:47:42 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 15:47:42 [INFO] - (wsh_load.py).main(34)  End programs
+2023-01-11 15:48:04 [INFO] - (wsh_load.py).main(26)  Start programs
+2023-01-11 15:48:04 [INFO] - (db.py).get_last_workshift(38)  sent workshift for 1C
+2023-01-11 15:48:04 [INFO] - (db.py).get_last_workshift(39)  workshift - ()
+2023-01-11 15:48:04 [DEBUG] - (connectionpool.py)._new_conn(228)  Starting new HTTP connection (1): 192.168.252.250:8082
+2023-01-11 15:48:05 [DEBUG] - (connectionpool.py)._make_request(456)  http://192.168.252.250:8082 "POST /UNF_test/hs/Workshift/V1/post_workshop HTTP/1.1" 200 0
+2023-01-11 15:48:05 [INFO] - (wsh_load.py).main(34)  End programs
