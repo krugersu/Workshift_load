@@ -25,7 +25,7 @@ def main():
     logger.info("Start programs")
 
     tData = db.workDb(rc)
-    # Список хакрытых смен от последнего зафиксированного времени
+    # Список закрытых смен от последнего зафиксированного времени
     l_workshift = tData.get_last_workshift()
     # Если нечего отправлять, то и отправляем
     if len(l_workshift) > 0:
