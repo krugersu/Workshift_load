@@ -27,29 +27,35 @@ class workDb:
             json.dump(l_workshift, f, ensure_ascii=False, indent=4)
         # self.mydb.close()
 
+        
+        
         logging.info('sent workshift for 1C')
         logging.info('workshift - ' + str(l_workshift))
 
-        tl_date = self.get_last_date()
-        self.save_last_date(tl_date)
-
         return l_workshift
+
 
     def save_last_date(self, t_date):
         filename = '/home/administrator/Workshift_load/src/last_date.txt'
         with open(filename, 'w', encoding='utf-8') as outfile:
             outfile.write(str(t_date))
 
+
     def load_last_date(self):
         filename = '/home/administrator/Workshift_load/src/last_date.txt'
         with open(filename, 'r', encoding='utf-8') as outfile:
             return (outfile.readline())
 
+
     def get_last_date(self):
 
         self._mycursor.execute(diff_data.qrSelect_last_workshift_date)
         l_date = self._mycursor.fetchone()
-
         self.mydb.close()
 
         return l_date[0]
+
+
+    def save_new_date(self):
+        tl_date = self.get_last_date()
+        self.save_last_date(tl_date)
