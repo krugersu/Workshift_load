@@ -30,7 +30,12 @@ def main():
     # Если нечего отправлять, то и отправляем
     if len(l_workshift) > 0:
         rec_con = m_request.req1C(rc)
-        rec_con.post_workshift(l_workshift)
+        status_code = rec_con.post_workshift(l_workshift)
+        # Меняем дату в файле только в случае успешного результата работы 1С
+        if status_code == 200:
+            tData.save_new_date()
+        else:
+            logger.info(u'status_code - ' + str(status_code))
 
     logger.info(u'End programs')
 
