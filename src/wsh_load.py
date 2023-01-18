@@ -25,11 +25,25 @@ def main():
     logger.info("Start programs")
 
     tData = db.workDb(rc)
+    rec_con = m_request.req1C(rc)
+
+    # Список открытых смен от последнего зафиксированного времени
+    l_workshift_open = tData.get_last_workshift_open()
+    # Если нечего отправлять, то и отправляем
+    if len(l_workshift_open) > 0:
+
+        status_code = rec_con.post_workshift_open(l_workshift_open)
+        # Меняем дату в файле только в случае успешного результата работы 1С
+        if status_code == 200:
+            tData.save_new_date_open()
+        else:
+            logger.info(u'status_code_open - ' + str(status_code))
+
     # Список закрытых смен от последнего зафиксированного времени
     l_workshift = tData.get_last_workshift()
     # Если нечего отправлять, то и отправляем
     if len(l_workshift) > 0:
-        rec_con = m_request.req1C(rc)
+        # rec_con = m_request.req1C(rc)
         status_code = rec_con.post_workshift(l_workshift)
         # Меняем дату в файле только в случае успешного результата работы 1С
         if status_code == 200:
