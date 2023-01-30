@@ -14,6 +14,9 @@ from pathlib import Path
 
 #: Global Constants
 logger = app_logger.get_logger(__name__)
+cPath = Path(os.getcwd())
+cPath.joinpath('Workshift_load', 'src')
+
 sys.path.insert(1, '/home/administrator/Workshift_load/src/')
 """Для логирования событий"""
 
@@ -23,6 +26,7 @@ def main():
     """ Main program entry. """
     path = Path("config", "config.ini")
     logger.info("Start programs")
+    logger.info("Current path " + str(cPath))
 
     tData = db.workDb(rc)
     rec_con = m_request.req1C(rc)
@@ -56,6 +60,7 @@ def main():
 
 if __name__ == "__main__":
 
+    # Чтение настроек
     m_conf = m_config.m_Config()
     rc = m_conf.loadConfig()
     if not rc == None:
