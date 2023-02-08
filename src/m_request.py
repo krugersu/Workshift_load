@@ -29,7 +29,7 @@ class req1C:
                                    + self.mConfig._sections.one_C.workshift, data=None, json= l_workshift)
 
           except Exception as e:
-               logging.info(u'status_code - ' + str(r.status_code))
+               logging.info('status_code - ' + str(r.status_code))
                logging.exception(e, exc_info=False)
 
           return (r.status_code)
@@ -42,7 +42,7 @@ class req1C:
                                    + self.mConfig._sections.one_C.workshift_open, data=None, json= l_workshift_open)
 
           except Exception as e:
-               logging.info(u'status_code - ' + str(r.status_code))
+               logging.info('status_code - ' + str(r.status_code))
                logging.exception(e, exc_info=False)
 
           return (r.status_code)

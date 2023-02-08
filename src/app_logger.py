@@ -12,6 +12,23 @@ def get_logger(name):
 
     # pathLOG = Path("./log", "py_log.log")
     print(pathLOG)
+    logging.basicConfig(handlers=[RotatingFileHandler(
+        '/home/administrator/Workshift_load/log/ws_log.log', maxBytes=200000, backupCount=20)], level=logging.DEBUG,
+
+        format=u"%(asctime)s [%(levelname)s] - (%(filename)s).%(funcName)s(%(lineno)d)  %(message)s", datefmt='%Y-%m-%d %H:%M:%S',)
+
+    logger = logging.getLogger(name)
+
+    return logger
+
+
+def get_logger_old(name):
+
+    # pathLOG = Path("log", "ws_log.log")
+    pathLOG = "/home/administrator/Workshift_load/log/ws_log.log"
+
+    # pathLOG = Path("./log", "py_log.log")
+    print(pathLOG)
     logging.basicConfig(level=logging.DEBUG, filename=pathLOG,
                         filemode="a",
                         format=u"%(asctime)s [%(levelname)s] - (%(filename)s).%(funcName)s(%(lineno)d)  %(message)s", datefmt='%Y-%m-%d %H:%M:%S',)
